@@ -1,0 +1,28 @@
+{
+  "name": "@hyperbotauthor/pgentest",
+  "version": "1.0.0",
+  "description": "pgentest",
+  "main": "packages/pgentest/lib/pgentest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pgentest": "packages/pgentest/lib/pgentest.js"
+  },
+  "keywords": [
+    "pgentest"
+  ],
+  "author": "hyperbotauthor",
+  "license": "MIT",
+  "homepage": "https://github.com/hyperbotauthor/pgentest",
+  "bugs": {
+    "url": "https://github.com/hyperbotauthor/pgentest/issues",
+    "email": "hyperchessbotauthor@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperbotauthor/pgentest.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
